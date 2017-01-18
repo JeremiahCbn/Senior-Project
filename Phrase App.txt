@@ -1,0 +1,14 @@
+Phrase App
+
+User Stories
+Main
+1. As a user, I want to be able to search a phrase
+2. As a user, I want to the foreign phrase spoken to me so I can hear the pronunciation
+3. As a user, I want to see related phrases based on situations (introductions, eating, transpotation)
+5. As a user, I want to be able to add phrases to my phrasebook
+6. As a user, I want to be able to favorite phrases
+7. As a user, I want to view previously searched phrases
+
+Optional
+1. As a user, I want the app to detect what language I am using
+2. As a user, I want to dissect a sentence (is a word a noun or a verb | color coded).

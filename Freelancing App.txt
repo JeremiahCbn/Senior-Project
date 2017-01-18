@@ -1,0 +1,13 @@
+Freelancing App
+
+User Stories
+1. Disclaimer
+2. I want to be able to post chores that I need done
+3. As a user, I want to set the payment I deem appropriate for the job
+4. As a user, I want to add tags to my chore/project/job listing
+5. As a user, I want to make sure that my safety is important (timer and button)
+6. As a user, I want to be able to negotiate a payment
+7. I want to be able to search for a job
+8. I want to see reviews of job listers or of people taking jobs
+9. I want to be able to cancel a job
+10. I want to be able to see a list of job applicants

@@ -1,0 +1,17 @@
+Food Truck App
+
+User Stories
+Main
+1. As a user, I would like to be able to update my location to let my potential customers know where I am
+2. As a user, I want my customers to make food orders
+3. As a user, I would want to give my customers an estimated time their food would be ready
+4. As a user, I want to be able to determine if I am a customer or truck owner
+5. As a customer, I want to be able to cancel orders.
+6. As a customer, I want to see a menu of purchasable food, sorted based on types of food or have foods filtered
+7. As a customer, I want to find food trucks within a set radius
+
+Optional
+6. I want customers to pay after making an order.
+7. As a truck owner, I want to verify customer orders via a digital receipt
+8. As a customer, I want to see reviews of the food truck
+9. As a truck owner, I want to send a notification to customers asking about their experience/write a review
